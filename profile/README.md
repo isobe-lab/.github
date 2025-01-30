@@ -1,4 +1,6 @@
-## Isobe Lab in NITech
+## lab-org-sample
+
+hi, this is a sample of org for the college lab.
 
 <!--
 
