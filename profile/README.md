@@ -2,7 +2,8 @@
 
 hi, this is a sample of org for the college lab.
 
-[org-settings](https://github.com/lab-org-sample/org-settings)
+- Organizationの設定について: [org-settings](https://github.com/lab-org-sample/org-settings)
+- git,Github,Organizationなどの説明: [org-documents](https://github.com/lab-org-sample/org-documents)
 
 <!--
 
