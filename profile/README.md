@@ -1,9 +1,23 @@
-## lab-org-sample
+# lab-org-sample
 
-hi, this is a sample of org for the college lab.
-
+礒部研のgithub Organizationです。
+この`.githubレポジトリのprofile/README.md`では、現在はわかりやすさのために説明用のリンクを置いています。(将来的には、外部に対するドキュメントをここに書くのが良いと思います。)
 - Organizationの設定について: [org-settings](https://github.com/lab-org-sample/org-settings)
 - git,Github,Organizationなどの説明: [org-documents](https://github.com/lab-org-sample/org-documents)
+
+<br />
+
+_**導入直後はわからないことが多いと思うので、何かあれば気軽に三輪(@masa0902dev)に聞いてみて下さい!**_
+
+<br />
+
+Github Organizationの導入によって得られるメリット:
+- コード共有が容易にできる
+- コードへの意見共有が容易にできる
+- プロジェクト管理、進捗を共有できる
+- 開発に関することがgithubで完結できる (all-in-one)
+
+
 
 <!--
 
