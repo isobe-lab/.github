@@ -2,6 +2,8 @@
 
 hi, this is a sample of org for the college lab.
 
+[org-settings](https://github.com/lab-org-sample/org-settings)
+
 <!--
 
 **Here are some ideas to get you started:**
