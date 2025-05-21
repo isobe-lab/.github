@@ -3,8 +3,9 @@
 礒部研のgithub Organizationです。
 この`.githubレポジトリのprofile/README.md`では、現在はわかりやすさのために説明用のリンクを置いています。
 将来的には、外部に対するドキュメントをここに書くのが良いと思います。また、Org名や画像は仮なので後で設定しましょう。
-- Organizationの設定について: [org-settings](https://github.com/lab-org-sample/org-settings)
-- git,Github,Organizationなどの説明: [org-documents](https://github.com/lab-org-sample/org-documents)
+- Organizationの設定について: [org-settings](https://github.com/isobe-lab/org-settings)
+- git,Github,Organizationなどのドキュメント・入門解説: [org-documents](https://github.com/isobe-lab/org-documents)
+- 礒部研のホームページ: [hp-plesk](https://github.com/isobe-lab/hp-plesk)
 
 <br />
 
