@@ -1,5 +1,7 @@
 # isobe-lab
 
+礒部研のHP: [計算統計物理学研究室（礒部研究室）](http://csp.web.nitech.ac.jp/index.html)
+
 礒部研のgithub Organizationです。
 この`.githubレポジトリのprofile/README.md`では、現在はわかりやすさのために説明用のリンクを置いています。
 将来的には、外部に対するドキュメントをここに書くのが良いと思います。また、Org名や画像は仮なので後で設定しましょう。
