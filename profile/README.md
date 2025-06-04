@@ -7,7 +7,8 @@
 将来的には、外部に対するドキュメントをここに書くのが良いと思います。また、Org名や画像は仮なので後で設定しましょう。
 - Organizationの設定について: [org-settings](https://github.com/isobe-lab/org-settings)
 - git,Github,Organizationなどのドキュメント・入門解説: [org-documents](https://github.com/isobe-lab/org-documents)
-- 礒部研のホームページ: [hp-plesk](https://github.com/isobe-lab/hp-plesk)
+- 週報: [weekly-report](https://github.com/isobe-lab/weekly-report)
+- 礒部研ホームページについて: [hp-plesk](https://github.com/isobe-lab/hp-plesk)
 
 <br />
 
